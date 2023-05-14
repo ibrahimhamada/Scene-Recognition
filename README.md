@@ -12,11 +12,12 @@ The three scene recognition schemes to be implemented are:
     3) Using bag of words representation and linear SVM classifier (svm_classify()).
 
 
-## Implementation:
+## Bag of Words Implementation:
 The following functions are used in our implementation 
 
-    1) get_tiny_images(): In this function, the images are rescaled into small sizes (16x16). The functions is used to represent 
-    the whole images with less amount of information by keeping the low frequencies only and getting rid of the high frequencies.
+    1) `get_tiny_images()`: In this function, the images are rescaled into small sizes (16x16). The functions is used 
+    to represent the whole images with less amount of information by keeping the low frequencies only and getting 
+    rid of the high frequencies.
     
     2) build_vocabulary(): In this function, we build the vocabulary bag that will compare the feature vector wit to build the histogram.
     
