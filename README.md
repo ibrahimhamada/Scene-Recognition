@@ -1,5 +1,5 @@
 # Scene-Recognition
-Scene Recognition: Mini Project 3 of the Computer Vision Course Offered in Spring 2022 @ Zewail City 
+*Scene Recognition: Mini Project 3 of the Computer Vision Course Offered in Spring 2022 @ Zewail City* 
 
 
 The project is adopted from a similar course in Brown University.
